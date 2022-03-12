@@ -1,5 +1,6 @@
 {
   "name": "my-travel-journal",
+  "homepage": "https://allieschen.github.io/my-travel-journal/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
