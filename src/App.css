@@ -109,4 +109,25 @@
   .card > img {
     width: 125px;
   }
+
+  .card--content > h2 {
+    font-size: 16px;
+  }
+
+  .locale {
+    margin-top: 0;
+  }
+
+  .card--content {
+    width: 65%;
+  }
+
+  .locale {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .description {
+    font-size: 10.5px;
+  }
 }
